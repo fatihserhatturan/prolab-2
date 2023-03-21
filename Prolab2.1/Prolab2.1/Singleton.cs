@@ -70,10 +70,7 @@ namespace Prolab2._1
         }
          
          
-        public void someBusinessLogic()
-        {
-            // ...
-        }
+       
     }
 
 }
